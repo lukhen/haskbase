@@ -1,5 +1,5 @@
 packages:
-  strip.cabal
+  haskbase.cabal
 
-package strip
+package haskbase
   ghc-options: -Werror
